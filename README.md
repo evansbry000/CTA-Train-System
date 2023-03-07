@@ -1,5 +1,8 @@
 # Final Project
 
+Main Code in CTA.java
+
+##PROMT
 ## Background
 
 For the past few weeks, we have been learning about objects, inheritance, polymorphism, and lists and using them to model various systems. For this project, you will use these concepts to design and implement a program that models a simplified version of the CTA and allows users to create/remove stations, search for a station by name and by requirements, and navigate between stations.
